@@ -1,0 +1,128 @@
+body {
+  width: 100%;
+  background: #e9e9e9 url('http://s.c.lnkd.licdn.com/scds/common/u/images/themes/katy/textures/texture_grain_200x200_v2.png');
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.my_name {
+	font-size: x-large;
+}
+.my_email:hover {
+	text-decoration: none;
+}
+nav {
+	background-color: #696969 !important;
+}
+.navbar-header p a {
+	color:white !important;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-size: 25px;
+}
+.about_main {
+	padding-top: 10px;
+}
+.about_main div {
+	margin-left: 0px; 
+	margin-right: 0px;
+}
+.about_skills div {
+	padding-left: 10px;
+}
+.about_main,.about_skills,.about_projects,.my_resume {
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: white;
+	border-radius: 10px;
+}
+.about_skills,.about_projects,.my_resume {
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-brand {
+	position: absolute;
+    width: 100%;
+	font-size: 30px;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+}
+.main_profile {
+	padding-bottom: 10px;
+}
+.div_about p {
+	font-size: 18px;
+}
+.lang {
+	text-align: center;
+}
+.btn {
+	margin-bottom: 10px !important;
+}
+.project_1,.project_2 {
+	margin-bottom: 10px;
+}
+div.project_1,.project_2 {
+	width: 100%;
+	border-style:solid;
+	border-color: blue;
+	border-radius: 10px;
+}
+.div_project_1 {
+	padding: 0 15px 0 15px;
+}
+.about_project_1 div {
+	display:inline-block;
+}
+.about_project_1 h3 {
+	padding-left: 10px;
+}
+.title1 {
+	font-size: 24px;
+}
+.website1 {
+	font-size: 21px;
+}
+.website1:hover {
+	text-decoration: none;
+}
+.des_p2 {
+	font-size: 17px;
+}
+img.displayed {
+    display: block;
+    margin: auto;
+    clear: right;
+ }
+ .des_project_1 {
+ 	padding-left: 20px !important;
+ 	padding-right: 20px !important;
+ }
+ .div_project_1 h2 {
+ 	text-align: center;
+ }
+ .my_resume {
+ 	margin-bottom: 20px;
+ 	text-align: center;
+ }
+ .my_resume button a {
+ 	color: white !important;
+ }
+ .my_resume button a:hover {
+ 	text-decoration: none;
+ }
+ .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.valign {
+	margin-top: 1%;
+}
+.lang button {
+	cursor: default;	
+}
